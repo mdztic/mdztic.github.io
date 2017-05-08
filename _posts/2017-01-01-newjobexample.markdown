@@ -2,7 +2,7 @@
 layout: post
 title:  "Job Example"
 categories: jekyll update
-img: default.png 
+img: pythonar.png 
 ---
 
 <h2>Python desarrollador Senior</h2>
