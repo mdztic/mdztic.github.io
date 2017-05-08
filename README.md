@@ -1,8 +1,12 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+## Mendoz Job[s]
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+*Sitio objetivo de proporcionar puestos de trabajo vacantes en Mendoza relacionado con la tecnología
+
+Si usted tiene una oferta de trabajo, enviar a [pythonmendoza@gmail.com](mailto:pythonmendoza@gmail.com){: target="_blank"} en el título de correo electrónico poner [JOBS] y ponemos aquí.
+
+
+
+*Website with the intention of making available job vacancies in Mendoza related to technology
+
+If you have a job offer, send it to [pythonmendoza@gmail.com](mailto: pythonmendoza@gmail.com) {: target = "_ blank"} in the email title put [JOBS] and we put it here.
