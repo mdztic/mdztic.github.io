@@ -8,12 +8,12 @@
 # Site settings
 title: Mendoza [TIC]
 email: mdztic@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description:  # this means to ignore newlines until "baseurl:"
    Mendoza [TIC] = Mendoza Job[s] + Evento[s]
   
   
   
-baseurl: "/mdztic.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mdztic.github.io" # the base hostname & protocol for your site
 
 #sidebar

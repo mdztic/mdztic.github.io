@@ -1,8 +1,8 @@
 
 ## Mendoza[TIC]
 
-## Mendoza Job[s]
-## Mendoza Evento[s]
+### Mendoza Job[s]
+### Mendoza Evento[s]
 
 
 * Sitio objetivo de proporcionar informaciones de eventos y puestos de trabajo vacantes en Mendoza relacionado con la tecnología
