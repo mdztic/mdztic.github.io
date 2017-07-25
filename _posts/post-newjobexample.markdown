@@ -2,7 +2,7 @@
 layout: post
 title:  "Job Example"
 categories: jekyll update
-img: pythonar.png 
+img: mdzall.png 
 ---
 
 <h2>Nombre de la empresa</h2>
