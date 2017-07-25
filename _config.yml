@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Mendoza [TIC]
-email: mdztic@gmail.com
+title: Mdz [TIC]
+email: hellomdztic@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
    Mendoza [TIC] = Mendoza Job[s] + Evento[s]
   
@@ -39,7 +39,7 @@ paginate_path: /page:num/
 
 #social
 facebook: https://www.facebook.com/mdztic/
-twitter: http://twitter.com/mdztic
+twitter: http://twitter.com/mdz_tic
 github: http://github.com/mdztic
 
 #facebook like box
